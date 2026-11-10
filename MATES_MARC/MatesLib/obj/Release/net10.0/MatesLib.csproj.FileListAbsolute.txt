@@ -1,0 +1,13 @@
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\bin\Release\net10.0\MatesLib.deps.json
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\bin\Release\net10.0\MatesLib.dll
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\bin\Release\net10.0\MatesLib.pdb
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\obj\Release\net10.0\MatesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\obj\Release\net10.0\MatesLib.AssemblyInfoInputs.cache
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\obj\Release\net10.0\MatesLib.AssemblyInfo.cs
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\obj\Release\net10.0\MatesLib.csproj.CoreCompileInputs.cache
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\obj\Release\net10.0\MatesLib.sourcelink.json
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\obj\Release\net10.0\MatesLib.dll
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\obj\Release\net10.0\refint\MatesLib.dll
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\obj\Release\net10.0\MatesLib.pdb
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\obj\Release\net10.0\ref\MatesLib.dll
+C:\Users\marcl\Desktop\Daw\Entorns\REPO_MATES\MATES_MARC\MatesLib\obj\Release\net10.0\MatesLib.csproj.Up2Date
